@@ -1,0 +1,28 @@
+.sidebar {
+    height: 100%;
+    min-width: 160px;
+    max-width: 250px;
+    width: 25%;
+    text-align: center;
+    padding: 42px;
+}
+.conatiner {
+    padding: 30px;
+    background-color: black;
+    border-radius: 10px;
+
+}
+.header {
+    text-align: left;
+    margin-bottom: 10px;
+}
+.DropDown {
+   margin: auto;
+}
+
+.header p {
+font-weight: 300;
+font-size: 20px;
+line-height: 24px;
+color: #A5A5A5;
+}

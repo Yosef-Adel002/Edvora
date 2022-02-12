@@ -1,0 +1,33 @@
+.listConatiner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 35px;
+}
+.lineContainer {
+    width: calc(88% + 50px);
+    
+}
+
+.productsConatiner {
+    width: 88%;
+   display: flex;
+   overflow-x: scroll;
+   background-color: black;
+   padding: 20px;
+   border-radius: 10px;
+}
+
+.productsConatiner::-webkit-scrollbar {
+    display: none;
+}
+.title {
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+color: #FFFFFF;
+margin-bottom: 15px;
+}
+

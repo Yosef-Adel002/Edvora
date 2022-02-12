@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  transition: .5s;
+}
+
+body {
+ background-color:  #292929;
+ font-family: 'Noto Sans Display', sans-serif;
+
+}
+
+code {
+ 
+    font-family: "SF Pro Display";
+}
+
+hr {
+  border-top: none;
+  border-left: none;
+  border-right:none ;
+  margin-bottom: 25px;
+}
